@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 😄 Pronouns: he/him
+- 😄 Pronouns: they/them
 - 🔭 I’m currently writing version 2.0 of my readme-writing-tutorial
 - 🌱 I’m currently learning SEO (Search Engine Optimization). 
 - 👯 I’m looking to collaborate on curriculum design.
